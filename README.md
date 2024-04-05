@@ -18,7 +18,6 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/DonkaDev/DonkaDev/main/assets/separator.png" alt="Separator" /></p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DonakDev&show_icons=true&count_private=true&title_color=dd0026&text_color=9f9f9f&icon_color=dd0026&bg_color=000000" height="180">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonkaDev&count_private=true&layout=compact&title_color=dd0026&text_color=9f9f9f&icon_color=dd0026&bg_color=000000" height="180">
 </p>
 <p align="center"><img src="https://raw.githubusercontent.com/LautyDev/LautyDev/main/assets/separator.png" alt="Separator" /></p>
