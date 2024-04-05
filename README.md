@@ -1,5 +1,5 @@
 <h2 align="center">Hi!<img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50"> My name is DonkaDev, and I specialize in web, software, and game development. :rocket:</h2>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=lautydev&label=Profile%20views&color=dd0026&style=flat-square" alt="LautyDev" /></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=DonkaDev&label=Profile%20views&color=dd0026&style=flat-square" alt="DonkaDev" /></p>
 <p align="center"><img src="https://raw.githubusercontent.com/LautyDev/LautyDev/main/assets/separator.png" alt="Separator" /></p>
 <a href="https://discord.com/users/656842811496333322" target="blank"><img align="right" src="https://discord-readme-badge.vercel.app/api?id=656842811496333322"></a>
 
