@@ -1,15 +1,14 @@
-<h2 align="center">Hi!<img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50"> My name is DonkaDev, and I specialize in web, software, and game development. :rocket:</h2>
+<h2 align="center">Hi!<img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50"> My name is DonkaDev, and I specialize in web, software, and bot development. :rocket:</h2>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=DonkaDev&label=Profile%20views&color=dd0026&style=flat-square" alt="DonkaDev" /></p>
 <p align="center"><img src="https://raw.githubusercontent.com/LautyDev/LautyDev/main/assets/separator.png" alt="Separator" /></p>
-<a href="https://discord.com/users/656842811496333322" target="blank"><img align="right" src="https://discord-readme-badge.vercel.app/api?id=656842811496333322"></a>
 
 -   🔭 I’m currently working on **[RoliCof](www.discord.com)**
 -   👨‍💻 My website **[DonkaDev](www.discord.com)**
--   📫 How to reach me: **git@DonkaDev**
+-   📫 How to reach me: **dubanperez26@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.com/users/656842811496333322" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="Discord" height="45" /></a>
+<a href="https://discord.com/users/868565825714544690" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="Discord" height="45" /></a>
 <a href="https://twitter.com/DonkaDev" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="45" /></a>
 <a href="mailto:git@lauty.dev" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Email" height="45" /></a>
 
