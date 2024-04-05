@@ -3,9 +3,9 @@
 <p align="center"><img src="https://raw.githubusercontent.com/LautyDev/LautyDev/main/assets/separator.png" alt="Separator" /></p>
 <a href="https://discord.com/users/656842811496333322" target="blank"><img align="right" src="https://discord-readme-badge.vercel.app/api?id=656842811496333322"></a>
 
--   🔭 I’m currently working on **[Precise Code Solutions](https://precisecode.dev)**, **[FNLB](https://fnlb.net)** and **[AgroLink](https://github.com/AgroLink-Solutions)**
--   👨‍💻 My website **[lauty.dev](https://lauty.dev)**
--   📫 How to reach me: **git@lauty.dev**
+-   🔭 I’m currently working on **[RoliCof](www.discord.com)**
+-   👨‍💻 My website **[DonkaDev](www.discord.com)**
+-   📫 How to reach me: **git@DonkaDev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
