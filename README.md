@@ -10,7 +10,7 @@
 <p align="left">
 <a href="https://discord.com/users/868565825714544690" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="Discord" height="45" /></a>
 <a href="https://twitter.com/DonkaDev" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="45" /></a>
-<a href="mailto:git@lauty.dev" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Email" height="45" /></a>
+<a href="mailto:dubanperez26@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Email" height="45" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://github.com/DonkaDev" target="blank"><img src="https://skillicons.dev/icons?i=ts,nextjs,nodejs,js,html,css,sass,androidstudio,arduino,bash,npm,pnpm,bootstrap,cpp,cloudflare,dart,deno,discord,bots,discordjs,express,flutter,git,github,githubactions,linux,windows,powershell,md,mongodb,firebase,netlify,powershell,py,django,react,tensorflow,unity,vscode,replit,workers&perline=17" width="100%"></a>
