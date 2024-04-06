@@ -34,16 +34,16 @@ I have excellent design and coding skills, I am a discord bot programmer, and I 
 ### Profile Cards
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DonkaDev&theme=radical)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anandmainali&repo=Foods-Ecommerce&show_owner=true)](https://github.com/anandmainali/Foods-Ecommerce)
+
 
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.anandmainali.com.np" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.anandmainali.com.np-blue?style=flat&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/anandmainali/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@anandmainali-blue?style=flat&logo=linkedin"></a>
-<a href="https://stackoverflow.com/users/8519896/anand-mainali?tab=profile" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-Anand%20Mainali-blue?style=flat&logo=stackoverflow"></a>
-<a href="mailto:anandmainali5@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-anandmainali5@gmail.com-blue?style=flat&logo=gmail"></a>
+<a href="https://www.discord.com" target="_blank"><img alt="Website" src="https://static-00.iconduck.com/assets.00/discord-icon-512x511-blfje7wy.png"></a>
+<a href="https://www.discord.com" target="_blank"><img alt="LinkedIn" src="https://static-00.iconduck.com/assets.00/discord-icon-512x511-blfje7wy.png"></a>
+<a href="https://www.discord.com" target="_blank"><img alt="Stack Overflow" src="https://static-00.iconduck.com/assets.00/discord-icon-512x511-blfje7wy.png"></a>
+<a href="mailto:dubanperez26@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-dubanperez26@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
 
-⭐️ From [@anandmainali](https://github.com/anandmainali)
+⭐️ From [@DonkaDev](https://github.com/DonkaDev)
