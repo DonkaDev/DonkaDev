@@ -39,9 +39,6 @@ I have excellent design and coding skills, I am a discord bot programmer, and I 
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.discord.com" target="_blank"><img alt="Website" src="https://static-00.iconduck.com/assets.00/discord-icon-512x511-blfje7wy.png"></a>
-<a href="https://www.discord.com" target="_blank"><img alt="LinkedIn" src="https://static-00.iconduck.com/assets.00/discord-icon-512x511-blfje7wy.png"></a>
-<a href="https://www.discord.com" target="_blank"><img alt="Stack Overflow" src="https://static-00.iconduck.com/assets.00/discord-icon-512x511-blfje7wy.png"></a>
 <a href="mailto:dubanperez26@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-dubanperez26@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
